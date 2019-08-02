@@ -35,6 +35,12 @@
 
 ### 项目经历
 
+* 2019.6-2019.8    蘑菇街女装-安卓版    独立开发
+
+技术栈：Vue+Vue-router+Vuex+ajax+webpack
+
+仿蘑菇街APP开发的一款供自己学习和开发的应用
+
 * 2019.1-2019.4    在线教育平台学生端    前端开发
 
 技术栈：Vue+Vue-router+Vuex+UI+echarts
