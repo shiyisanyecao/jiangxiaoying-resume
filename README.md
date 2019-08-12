@@ -21,7 +21,7 @@
 
 ### 工作经历
 
-* 2018.8-2019.4 聚之源科技有限公司 web前端 [公司产品](http://www.kaodaowang.com/kaoJinList)
+* 2018.8-2019.6 聚之源科技有限公司 web前端 [公司产品](http://www.kaodaowang.com/kaoJinList)
 
 工作内容：
 
